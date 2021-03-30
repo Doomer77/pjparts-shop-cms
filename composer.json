@@ -1,0 +1,9 @@
+{
+  "autoload": {
+    "psr-4": {
+      "pjpartsshop\\": "vendor/pjpartsshop/core",
+      "app\\": "app"
+    }
+  },
+  "require": {}
+}

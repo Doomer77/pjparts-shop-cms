@@ -1,0 +1,30 @@
+Урок 3.  Конфигурация приложения
+1. Создаем папки проекта
+2. Создаем файл composer в папку проекта composer.json
+3. Устанавливаем composer в папку проекта командой composer install
+4. В папке vender создаем папку pjparts_shop
+5. В папке pjparts_shop создаем папку core
+6. В папке core создаем папку base, libs
+7. В папке public создаем файл index.php
+8. В корне создем файл .htaccess
+9. В public создем файл .htaccess
+10. В папке config создем файл init.php,
+    и создаем необходимые переменные
+11. В папке tmp создем папку cache
+
+Урок 4.  Класс Реестр
+1. Создаем класс приложения App в ядре core
+2. Запускаем команду в консоли composer dumpautoload
+3. Создаем класс приложения Registry в ядре core
+4. Создаем трейд приложения TSingletone в ядре core
+5. Создаем фаил params в папке config
+6. Создаем фаил functions в папке libs
+
+Урок 5.  Класс обработки ошибок
+1. Создаем класс ErrorHandler в ядре core
+2. В папке public создаем папку errors, в ней 404.php, dev.php, prod.php
+
+Урок 6. Класс маршрутизатор. Часть 1
+1. В папке config создаем фаил routes
+2. В попке core создаем класс Router
+
